@@ -1,6 +1,9 @@
 # Market-basket-Analysis-Project
 This project demonstrates Market Basket Analysis using PostgreSQL, Python, and Apriori algorithm.
 
+# Apriori Algorithm for Data Mining
+![]()
+
 ## Project Highlights
 
 - Data storage and retrieval using PostgreSQL
