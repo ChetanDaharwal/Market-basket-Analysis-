@@ -1,8 +1,8 @@
 # Market-basket-Analysis-Project
-This project demonstrates Market Basket Analysis using PostgreSQL, Python, and Apriori algorithm.
+This project demonstrates Market Basket Analysis using PostgreSQL, Python, and Apriori algorithm.This project objective is to identify associations and purchasing patterns between products in a retail store’s transactional dataset. By analyzing which items are frequently bought together, businesses can make data-driven decisions to optimize product placement, cross-selling, and marketing strategies.
 
 # Apriori Algorithm for Data Mining
-![]()
+![](Market-Basket-Analysis-in-Data-Mining.jpg)
 
 ## Project Highlights
 
